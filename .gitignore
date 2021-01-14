@@ -1,5 +1,9 @@
-00-PyTorchDemoLeNet/__pycache__
-00-PyTorchDemoLeNet/data/
-01-AlexNet/__pycache__
-01-AlexNet/flower_data
+00-PyTorchDemoLeNet/
+01-AlexNet/
+02-VGG/
+03-GoogLeNet/
+04-ResNet/
+05-MobileNet/
+
+data/
 
